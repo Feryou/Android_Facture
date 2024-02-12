@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="invoice_title">FACTURE</string>
+    <string name="quantity_hint">Quantité</string>
+    <string name="unit_price_hint">Prix unitaire</string>
+    <string name="amount_ht_hint">Montant HT</string>
+    <string name="tax_rate_hint">Taux TVA</string>
+    <string name="loyalty_label">Fidèle</string>
+    <string name="not_loyalty_label">Non Fidèle</string>
+    <string name="discount_hint">Remise en €</string>
+    <string name="calculate_ttc_button">Calculer TTC</string>
+    <string name="reset_button">Remise À Zéro</string>
+
+    <string name="app_name">Facture</string>
+
+
+    <string name="total_amount_ttc">Montant TTC</string>
+    <string name="back">Retour</string>
+    <string name="login">Confirmer</string>
+
+    <string name="unity">€</string>
+    <string name="uniti">%</string>
+    <string name="username">Pseudo : etudiant</string>
+    <string name="password">mot de passe : Azerty</string>
+    <string name="se_connecter">Authentification</string>
+
+
+</resources>
